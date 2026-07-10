@@ -1,11 +1,16 @@
-### Metadata
+# DOC-0001 – Project Charter/Vision
 
-1. **Project Name:** Rent-a-Cow Digital Platform
-2. **Version:** 1.0 (Features + High-Fidelity Experience)
-3. **Date:** July 9, 2026
-4. **Author:** Krishna Nand Dhoundiyal, Founder & Senior Architect
-5. **Organization:** Qatalytik Technologies
-6. **Document Status:** Baseline Approved
+| Field | Value |
+|------|------|
+| **Document ID** | DOC-0001 |
+| **Project Name** | Rent-A-Cow|
+| **Title** | Project Charter |
+| **Status** | Draft |
+| **Version** | 0.1 |
+| **Owner** | Krishna Dhoundiyal |
+| **Approver** | Pooja Dhoundiyal |
+| **Organization** | Qatalytik Technologies |
+
 
 ### Summary
 
