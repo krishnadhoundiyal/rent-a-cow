@@ -129,6 +129,7 @@ Farm Operations Platform
 <summary>
 <b>Logistics Platform</b>
 </summary>
+
 #### All material movements are addressed here
 * [x] Module to deliver the produces of the cow to the consumer. 
 * [x] Module to track the farm stock recieved from vendors, this will be integrated with Inventory Platform
@@ -139,6 +140,7 @@ Farm Operations Platform
 <summary>
 <b>Streaming Platform</b>
 </summary>
+
 #### Video/Audio streaming to the users
 * [x] Economical streaming to the user whenever notification is accepted 
 * [x] Only stream video of cow to their owners
